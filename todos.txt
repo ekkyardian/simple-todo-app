@@ -1,0 +1,1 @@
+a:4:{i:0;a:2:{s:4:"todo";s:33:"Selesaikan kursus php Codepolitan";s:6:"status";s:1:"0";}i:1;a:2:{s:4:"todo";s:25:"Cek status kartu prakerja";s:6:"status";s:1:"0";}i:2;a:2:{s:4:"todo";s:11:"Makan malam";s:6:"status";s:1:"0";}i:3;a:2:{s:4:"todo";s:23:"Belajar fundamental Vim";s:6:"status";s:1:"0";}}
