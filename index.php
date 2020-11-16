@@ -1,4 +1,5 @@
 <?php
+// Hello! I'm going to do pointless things. Don't mind me.
 $todos = [];
 
 if (file_exists('todos.txt')) {
